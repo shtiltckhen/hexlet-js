@@ -1,12 +1,14 @@
 {
-  "name": "hexlet",
+  "name": "my-first-project",
   "type": "module",
   "version": "1.0.0",
   "description": "Мой первый проект на Хекслете",
+  "homepage": "https://github.com/shtiltckhen/hexlet-js#readme",
+  "bugs": "email: shtiltckhen@gmail.com",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "",
-  "license": "ISC"
+  "author": "Julia <shtiltckhen@gmail.com>",
+  "license": "UNLICENSED"
 }
