@@ -1,5 +1,5 @@
 import _ from "lodash";
 
-console.log("Hello, Hexlet!");
+import random from './src/index.js'
 
-console.log(_.last(["one", "two"]));
+random();

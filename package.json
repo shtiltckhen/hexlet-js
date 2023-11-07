@@ -5,7 +5,7 @@
   "description": "Мой первый проект на Хекслете",
   "homepage": "https://github.com/shtiltckhen/hexlet-js#readme",
   "bugs": "email: shtiltckhen@gmail.com",
-  "main": "index.js",
+  "main": "./src/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
